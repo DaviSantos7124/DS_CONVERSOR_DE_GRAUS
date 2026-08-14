@@ -1,0 +1,11 @@
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\bin\Debug\DS-CONVERSOR_DE_GRAUS.exe.config
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\bin\Debug\DS-CONVERSOR_DE_GRAUS.exe
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\bin\Debug\DS-CONVERSOR_DE_GRAUS.pdb
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\obj\Debug\DS-CONVERSOR_DE_GRAUS.csproj.AssemblyReference.cache
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\obj\Debug\DS-CONVERSOR_DE_GRAUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\obj\Debug\DS_CONVERSOR_DE_GRAUS.Form1.resources
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\obj\Debug\DS_CONVERSOR_DE_GRAUS.Properties.Resources.resources
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\obj\Debug\DS-CONVERSOR_DE_GRAUS.csproj.GenerateResource.cache
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\obj\Debug\DS-CONVERSOR_DE_GRAUS.csproj.CoreCompileInputs.cache
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\obj\Debug\DS-CONVERSOR_DE_GRAUS.exe
+C:\Users\etec\Downloads\Davi\DS - Desenvolvimento de Sistemas\DS-CONVERSOR_DE_GRAUS\DS-CONVERSOR_DE_GRAUS\obj\Debug\DS-CONVERSOR_DE_GRAUS.pdb
